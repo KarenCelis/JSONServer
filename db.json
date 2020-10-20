@@ -1,14 +1,8 @@
 {
-
-    "users": [{
-            "id": 1,
-            "firstName": "Jhon",
-            "email": "john@gamil"
-        },
-        {
-            "id": 2,
-            "firstName": "Jhgfn",
-            "email": "john@gamisl"
-        }
-    ]
+  "sensor": "gps",
+  "time": 1351824120,
+  "data": [
+    48.756080,
+    2.302038
+  ]
 }
